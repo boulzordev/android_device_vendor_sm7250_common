@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sm7250_common/proprietary/lib64/libskewknob_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libskewknob_system.so \
     vendor/motorola/sm7250_common/proprietary/lib64/libvpsclient.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvpsclient.so \
     vendor/motorola/sm7250_common/proprietary/lib64/libvpsextension.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvpsextension.so \
-    vendor/motorola/sm7250_common/proprietary/product/bin/dpmd:$(TARGET_COPY_OUT_PRODUCT)/bin/dpmd \
     vendor/motorola/sm7250_common/proprietary/product/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_PRODUCT)/etc/dpm/dpm.conf \
     vendor/motorola/sm7250_common/proprietary/product/etc/init/dpmd.rc:$(TARGET_COPY_OUT_PRODUCT)/etc/init/dpmd.rc \
     vendor/motorola/sm7250_common/proprietary/product/etc/ixitdata.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/ixitdata.xml \
